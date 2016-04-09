@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Android/LMAdapter/library/LMAdapter.iml" filepath="E:/Android/LMAdapter/library/LMAdapter.iml" />
+      <module fileurl="file://E:/Android/LMAdapter/library/app/app.iml" filepath="E:/Android/LMAdapter/library/app/app.iml" />
+    </modules>
+  </component>
+</project>
